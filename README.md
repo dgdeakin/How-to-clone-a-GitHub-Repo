@@ -6,4 +6,4 @@ This is useful in downloading any public or private (if accessible) github proje
 Using Android Studio:
 1. File New -> Project from version control...
 
-<img src="img.png" width="300">
+<img src="img.png" alt="Description" style="width:500px;"/>
