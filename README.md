@@ -13,20 +13,20 @@ Using Android Studio:
 2. Provide your github repo url
 
 <p align="center">
-  <img src="img1.png" alt="Description" width="500">
+  <img src="img_1.png" alt="Description" width="500">
 </p>
 
 
 3. Upgrade gradle if required.
 
 <p align="center">
-  <img src="img2.png" alt="Description" width="500">
+  <img src="img_2.png" alt="Description" width="500">
 </p>
 
 4. Sync Gradle.
 
 <p align="center">
-  <img src="img3.png" alt="Description" width="500">
+  <img src="img_3.png" alt="Description" width="500">
 </p>
 
 
