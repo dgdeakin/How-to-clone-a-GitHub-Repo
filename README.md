@@ -10,3 +10,23 @@ Using Android Studio:
   <img src="img.png" alt="Description" width="500">
 </p>
 
+2. Provide your github repo url
+
+<p align="center">
+  <img src="img1.png" alt="Description" width="500">
+</p>
+
+
+3. 
+
+<p align="center">
+  <img src="img2.png" alt="Description" width="500">
+</p>
+
+
+
+<p align="center">
+  <img src="img3.png" alt="Description" width="500">
+</p>
+
+
