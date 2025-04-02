@@ -17,13 +17,13 @@ Using Android Studio:
 </p>
 
 
-3. 
+3. Upgrade gradle if required.
 
 <p align="center">
   <img src="img2.png" alt="Description" width="500">
 </p>
 
-
+4. Sync Gradle.
 
 <p align="center">
   <img src="img3.png" alt="Description" width="500">
